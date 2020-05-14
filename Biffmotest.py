@@ -1,0 +1,2 @@
+m = 'YES'
+print(m)
