@@ -20,3 +20,5 @@ position = Vector2( 789.104, 560.254 )
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Seabed"]
 position = Vector2( 938.025, 1006.84 )
 shape = SubResource( 1 )
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
