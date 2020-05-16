@@ -10,7 +10,7 @@
             {
               "type":"fish",
               "name":"abborre",
-              "storlek":"lång som tusan",
+              "size":"lång som tusan",
               "sound":"Blubbar",
               "personality":"kind",
               "swimtype":"fast",
@@ -19,7 +19,7 @@
             {
               "type":"fish",
               "name":"gädda",
-              "storlek":"3-5kg",
+              "size":"3-5kg",
               "sound":"Blubbar",
               "personality":"kind",
               "swimtype":"fast",
@@ -33,7 +33,7 @@
             {
               "type":"fish",
               "name":"manet",
-              "storlek":"3-5kg",
+              "size":"3-5kg",
               "sound":"Blubbar",
               "personality":"kind",
               "swimtype":"fast",
@@ -53,7 +53,7 @@
             {
               "type":"fish",
               "name":"Sillkung",
-              "storlek":"Världens längsta fisk, 15m.s",
+              "size":"Världens längsta fisk, 15m.s",
               "sound":"Blubbar",
               "personality":"kind",
               "swimtype":"fast",
