@@ -155,3 +155,9 @@ text-shadow:1px 1px 1px rgba(0,0,0,0.3);
   text-align:right;
   font-style:italic;
 }
+
+/* */
+.box-content img {
+    width: 60%;
+    padding: 10px 0;
+}
