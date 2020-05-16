@@ -31,7 +31,7 @@ seastuffObj.renderStuff = function(stuff) {  console.log("r",stuff);
         '<div class="box-content">'+
           '<img src="img/'+ stuff.image +'" />' +
           '<div class="box-item">' +
-            '<strong>Vikt</strong>' +
+            '<strong>Storlek</strong>' +
             stuff.weight +
           '</div>' +
           '<div class="box-item">' +
