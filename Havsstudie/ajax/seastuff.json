@@ -11,13 +11,19 @@
               "type":"fish",
               "name":"abborre",
               "weight":"3-5kg",
-              "sound":"Blubbar"
+              "sound":"Blubbar",
+              "personality":"kind",
+              "swimtype":"fast",
+              "image":"abborre.jpg"
             },
             {
               "type":"fish",
               "name":"gädda",
               "weight":"3-5kg",
-              "sound":"Blubbar"
+              "sound":"Blubbar",
+              "personality":"kind",
+              "swimtype":"fast",
+              "image":"abborre.jpg"
             }
           ]
         },
@@ -28,13 +34,10 @@
               "type":"fish",
               "name":"manet",
               "weight":"3-5kg",
-              "sound":"Blubbar"
-            },
-            {
-              "type":"fish",
-              "name":"sjöborre",
-              "weight":"3-5kg",
-              "sound":"Blubbar"
+              "sound":"Blubbar",
+              "personality":"kind",
+              "swimtype":"fast",
+              "image":"abborre.jpg"
             }
           ]
         }
@@ -51,24 +54,10 @@
               "type":"fish",
               "name":"Kolja",
               "weight":"3-5kg",
-              "sound":"Blubbar"
-            },
-            {
-              "type":"fish",
-              "name":"Rocka",
-              "weight":"3-5kg",
-              "sound":"Blubbar"
-            }
-          ]
-        },
-        {
-          "name":"50m",
-          "stuff":[
-            {
-              "type":"fish",
-              "name":"Sjöhäst",
-              "weight":"3-5kg",
-              "sound":"Blubbar"
+              "sound":"Blubbar",
+              "personality":"kind",
+              "swimtype":"fast",
+              "image":"abborre.jpg"
             }
           ]
         }
