@@ -29,9 +29,7 @@ seastuffObj.renderStuff = function(stuff) {  console.log("r",stuff);
           stuff.name +
         '</div>'+
         '<div class="box-content">'+
-          '<a class="btn btn-xs btn-default pull-right">'+
-            'Details'+
-          '</a>' +
+          '<img src="img/'+ stuff.image +'" />' +
           '<div class="box-item">' +
             '<strong>Vikt</strong>' +
             stuff.weight +
@@ -39,7 +37,15 @@ seastuffObj.renderStuff = function(stuff) {  console.log("r",stuff);
           '<div class="box-item">' +
             '<strong>Ljud</strong>' +
             stuff.sound +
-          '</div>' +    
+          '</div>' +
+          '<div class="box-item">' +
+            '<strong>Simkunnighet</strong>' +
+            stuff.swimtype +
+          '</div>' +   
+          '<div class="box-item">' +
+            '<strong>Personlighet</strong>' +
+            stuff.personality +
+          '</div>' +   
         '</div>' +      
       '</div>' +
     '</div>';
