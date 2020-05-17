@@ -17,7 +17,21 @@
                      "image":"PSX_20200517_142531.jpg"
                   }
                ]
-            }
+            },
+            {
+               "name":"1m",
+               "stuff":[
+                  {
+                     "type":"fish",
+                     "name":"tryckarfisk",
+                     "size":"20-50cm, max 1m",
+                     "sound":"knastrar när de äter hårda skal",
+                     "personality":"kvicka att lära, kan vara aggressiva vid försvar av ägg, revirstinn titan trigherfish attackerar gärna dykare",
+                     "swimtype":"fena på undersidan möjliggör fina långsamma rörelser",
+                     "image":"tryckarfisk.jpg"
+                  }
+               ]
+            },
          ]
       },
       {
