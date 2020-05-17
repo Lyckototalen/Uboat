@@ -41,27 +41,27 @@
             }
           ]
         }
-      ] 
+      ]
     },
     {
       "name":"Mesopelagiska zonen",
       "readableName":"Skymningszonen",
       "depths":[
         {
-          "name":"100m",
+          "name":"700m",
           "stuff":[
             {
               "type":"fish",
-              "name":"Sillkung",
-              "size":"Världens längsta fisk, 15m.s",
+              "name":"Sillkung/King of herring",
+              "size":"3-11m., 200kg (Världslängst fisk)",
               "sound":"Blubbar",
-              "personality":"kind",
-              "swimtype":"fast",
+              "personality":"Snäll. Inga tänder. kan simma vertikalt.",
+              "swimtype":"Ålar sig fram, ibland vertikalt",
               "image":"PSX_20200516_152752.jpg"
             }
           ]
         }
-      ] 
-    }   
+      ]
+    }
   ]
 }
