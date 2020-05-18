@@ -1,44 +1,58 @@
 {
-   "sealevels":[
-      {
-         "name":"Epipelagiska zonen",
-         "readableName":"Soljuszonen",
-         "depths":[
+  "sealevels":[
+    {
+      "name":"Epipelagiska zonen",
+      "readableName":"Soljuszonen",
+      "depths":[
+        {
+          "name":"1m",
+          "stuff":[
             {
-               "name":"1m",
-               "stuff":[
-                  {
-                     "type":"plankton",
-                     "name":"phytoplankton",
-                     "size":"varierar. Max 1mm",
-                     "sound":"Blubbar",
-                     "personality":"kan fotosyntes, drar koldioxid",
-                     "swimtype":"flyter runt",
-                     "image":"PSX_20200517_142531.jpg"
-                  }
-               ]
+              "type":"plankton",
+              "name":"phytoplankton",
+              "size":"varierar. Max 1mm",
+              "sound":"Blubbar",
+              "personality":"kan fotosyntes, drar koldioxid",
+              "swimtype":"flyter runt",
+              "image":"PSX_20200517_142531.jpg"
             }
-         ]
-      },
-      {
-         "name":"Mesopelagiska zonen",
-         "readableName":"Skymningszonen",
-         "depths":[
+          ]
+        },
+        {
+          "name":"10m",
+          "stuff":[
             {
-               "name":"700m",
-               "stuff":[
-                  {
-                     "type":"fish",
-                     "name":"Sillkung/King of herring",
-                     "size":"3-11m., 200kg (Världslängst fisk)",
-                     "sound":"Blubbar",
-                     "personality":"Snäll. Inga tänder. kan simma vertikalt.",
-                     "swimtype":"Ålar sig fram, ibland vertikalt",
-                     "image":"PSX_20200517_133412.jpg"
-                  }
-               ]
+              "type":"fish",
+              "name":"tryckarfisk",
+              "size":"20-50cm, max 1m",
+              "sound":"knastrar när de äter hårda skal",
+              "personality":"kvicka att lära, kan vara aggressiva vid försvar av ägg, revirstinn titan trigherfish attackerar gärna dykare",
+              "swimtype":"fena på undersidan möjliggör fina långsamma rörelser",
+              "image":"PSX_20200517_221206.jpg"
             }
-         ]
-      }
-   ]
+          ]
+        }
+      ]
+    },
+    {
+      "name":"Mesopelagiska zonen",
+      "readableName":"Skymningszonen",
+      "depths":[
+        {
+          "name":"700m",
+          "stuff":[
+            {
+              "type":"fish",
+              "name":"Sillkung/King of herring",
+              "size":"3-11m., 200kg (Världslängst fisk)",
+              "sound":"Blubbar",
+              "personality":"Snäll. Inga tänder. kan simma vertikalt.",
+              "swimtype":"Ålar sig fram, ibland vertikalt",
+              "image":"PSX_20200517_133412.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
