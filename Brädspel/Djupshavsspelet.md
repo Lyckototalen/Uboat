@@ -30,6 +30,7 @@ Falling
 IDEER
 Skönt när den som är aktiv slipper säga 'klar' efetr sin runda (likt Scythe)
 1-100 spelare
+Inga tärningar
 
 
 Ask yourself questions like:
