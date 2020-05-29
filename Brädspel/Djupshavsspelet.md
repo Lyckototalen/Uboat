@@ -23,23 +23,46 @@ Förebilder:
 Power grid
 Scythe
 Settlers
+Pret a porter
+Falling
 
 
+IDEER
+Skönt när den som är aktiv slipper säga 'klar' efetr sin runda (likt Scythe)
+1-100 spelare
+Inga tärningar
 
 
+Ask yourself questions like:
 
-
+    How many players will there be?
+    How long should the game be?
+    What choices will the player make, and when will they make them?
+    How will the player make these choices?
+    How will one player's choice impact the other players?
+    How will the players interact with each other?
+    Are there any choices that can be made by one player, but not by the others?
+    How does the game progress? Is it strictly turn-based, or is it in rounds with phases?
+    What actions will the player be able to take?
+    How will the outcome of an action be determined?
+    What is the player's goal?
+    How can the player win?
 
 
 DJUPHAVET
 
-RUNDOR:
+RUNDOR
 Atmosfären: Förebereda utflykten/uppdraget
 Normalt hav: Ubåtsdyket går som planerat
 Mörkt hav: Något går fel, problem med syre, ljus, tryck, orientering
 Magiskt hav: Fantastisk värld
 
-OBJEKTIV:
-
+OBJEKTIV
 Finna något? Mest av något? Flest glada fiskvänner? Maximera lyckototalen är objektivet i alla våra spel?
+
+ROLLER
+Någon spelar ubåt? Någon spelar besättning? Någon spelar magiska fiskar? 
+
+ELEMENT
+Kommer nog inte vara några problem med sillkungar och allt
 
