@@ -2,6 +2,8 @@ Förlåt att jag sänker volymen ett tag men är det nån som har sett Louise Mi
 Jag har väntat flera timmar, det var här vi skulle ses.
 Visst känns det kallare än vanligt här ikväll?
 
+
+
 REF
 Finns det någon som har sett min kamrat nånstans? Jag har letat, och frågat överallt. 
 
