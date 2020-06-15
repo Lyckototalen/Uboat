@@ -24,7 +24,7 @@ Läpparna var sammetsblå
 Jag tror du fattar själv ändå 
 Det kommer aldrig bli revolution 
 
-- solo - 
+- solo -  
 
 REF - 
 Finns det någon som har sett min kamrat nånstans? Hon är saknad i vårt vänsterkollektiv. 
