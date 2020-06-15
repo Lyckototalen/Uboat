@@ -2,9 +2,7 @@ Förlåt att jag sänker volymen ett tag men är det nån som har sett Louise Mi
 Jag har väntat flera timmar, det var här vi skulle ses.
 Visst känns det kallare än vanligt här ikväll?
 
-
-
-REF
+REF - 
 Finns det någon som har sett min kamrat nånstans? Jag har letat, och frågat överallt. 
 
 Hon är äldre än på bilden den är tagen 71.
@@ -26,7 +24,7 @@ Läpparna var sammetsblå
 Jag tror du fattar själv ändå 
 Det kommer aldrig bli revolution 
 
-REF
+REF - 
 Finns det någon som har sett min kamrat nånstans? Hon är saknad i vårt vänsterkollektiv. 
 
 Jag fryser så jag skakar, nej der får inte ha hänt! 
@@ -46,7 +44,7 @@ Den ska vända hela världen ut och in.
 Jag vet att vissa tar mig för en galen pyroman. 
 Fryser du, ta rocken, den är din.  
 
-REF
+REF - 
 Finns det någon som har sett min kamrat nånstans? Han som var rädd för att bli kallad anarkist. 
 
 Jag hittade hans mössa, det måste vara kallt. 
