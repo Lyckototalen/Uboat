@@ -71,45 +71,53 @@ Jag fryser så jag skakar, nej det får inte ha hänt!
 Snälla säg att ni har sett henne vid liv!
 
 
-Slut upp med oss, stå inte där
-Upp till kamp nu proletär
-mot fängelset som fjättrar denna jord
-
-
-Och den som håller tal ikväll 
-Är vår kamrat Louis Michel 
-Hon bad mig att förmedla några ord. 
-
-Välkommen tillbaks till vår fraktalrevolution
-Den ska vända hela världen ut och in. 
-
-Jag vet att vissa tar mig för en galen pyroman. 
-Fryser du, ta rocken, den är din.  
-
-REF - 
-Finns det någon som har sett min kamrat nånstans? Han som var rädd för att bli kallad anarkist. 
-
-Jag hittade hans mössa, det måste vara kallt. 
-Det fryser på inatt men jag är optimist.
-För den som strider mot fascismen kan aldrig va fascist.
-
-
-
-
-... Jag fryser så jag skakar, nej der får inte ha hänt! Snälla säg att ni har sett henne vid liv! 
-
-
-Så djupt har kälen slagit rot
-Att varje spadtag tar emot
+     C#m             E              B             C#m
+Så djupt har kälen slagit rot, att varje spadtag tar emot
+     B        B          C#m          C#m    C#m    C#m
 Nåt hårt och kallt och spaden färgas röd! 
 
-Vi ses nog aldrig mer igen
-De hämtar mig i gryningen 
+
+    C#m            E            B             C#m
+Vi ses nog aldrig mer igen, de hämtar mig i gryningen 
+      B     B         C#m              C#m    C#m    C#m
 Det blåser nu! Askan virvlar upp som snö! 
 
 
-Slut upp med oss, stå inte där
-Upp till kamp nu proletär
-mot fängelset som fjättrar denna jord ...
+     C#m              E         B                  C#m
+Slut upp med oss, stå inte där, upp till kamp nu proletär
+     B     B        C#m           C#m    C#m    C#m
+mot fängelset som fjättrar denna jord
 
-Den är tung!
+
+     C#m            E              B           C#m
+Och den som håller tal ikväll, är vår kamrat Louis Michel
+     B           B             C#m    C#m    C#m    C#m
+Hon bad mig att förmedla några ord. 
+
+
+ C#m           E              B            C#m    C#m
+Välkommen tillbaks till vår fraktalrevolution
+         B          B             C#m    C#m    C#m    C#m
+Den ska vända hela världen ut och in. 
+
+
+     C#m           E              B         C#m    C#m
+Jag vet att vissa tar mig för en galen pyroman.
+  B            B              C#m    C#m    C#m    C#m
+Fryser du, ta rocken, den är din.  
+
+
+                 C#m           E           B       C#m    C#m
+REF - Finns det någon som har sett min kamrat nånstans? 
+             B                B          C#m    C#m    C#m    C#m
+Han som var rädd för att bli kallad anarkist. 
+
+
+     C#m          E          B          C#m    C#m
+Jag hittade hans mössa, det måste vara kallt. 
+            B            B          C#m    C#m    C#m    C#m
+Det fryser på inatt men jag är optimist.
+
+
+               B            B        B            C#m
+För den som strider mot fascismen är inte nån fascist.
