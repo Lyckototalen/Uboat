@@ -16,7 +16,7 @@ Visst känns det kallare än vanligt här ikväll?
 C#m    C#m    C#m    C#m
 
 
-                 C#m           E           B       C#m
+                 C#m           E           B       C#m    C#m
 REF - Finns det någon som har sett min kamrat nånstans?
          B           B        C#m    C#m    C#m    C#m
 Jag har letat, och frågat överallt. 
@@ -51,23 +51,30 @@ Läpparna var sammetsblå, jag tror du fattar själv ändå
 Det kommer aldrig bli revolution 
 
 
-C#m    E     B      C#m
+C#m    E     B      C#m    C#m
 B      B     C#m    C#m    C#m    C#m
 
 
-C#m    E     B      C#m
+C#m    E     B      C#m    C#m
 B      B     C#m    C#m    C#m    C#m
 
 
+                 C#m           E           B       C#m    C#m
+REF - Finns det någon som har sett min kamrat nånstans?
+        B             B            C#m    C#m    C#m    C#m
+Hon är saknad i vårt vänsterkollektiv. 
 
-REF - Finns det någon som har sett min kamrat nånstans? Hon är saknad i vårt vänsterkollektiv. 
 
-Jag fryser så jag skakar, nej der får inte ha hänt! 
+      C#m           E              B           C#m    C#m
+Jag fryser så jag skakar, nej det får inte ha hänt! 
+        B              B              C#m    C#m    C#m    C#m
 Snälla säg att ni har sett henne vid liv!
+
 
 Slut upp med oss, stå inte där
 Upp till kamp nu proletär
 mot fängelset som fjättrar denna jord
+
 
 Och den som håller tal ikväll 
 Är vår kamrat Louis Michel 
